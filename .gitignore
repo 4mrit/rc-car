@@ -1,0 +1,29 @@
+# PlatformIO
+.pio/
+.ccls
+.vscode/
+.clang_complete
+compile_commands.json
+config/
+lib_deps/
+.DS_Store
+.change/
+.vscode/
+.cache/
+# Logs
+*.log
+
+# Arduino specific
+*.bin
+*.elf
+*.hex
+*.ino
+
+# Backup files
+*~
+*.swp
+
+# Other
+*.bak
+*.tmp
+*.temp
